@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "description": "The best triathlon tracker ever",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
